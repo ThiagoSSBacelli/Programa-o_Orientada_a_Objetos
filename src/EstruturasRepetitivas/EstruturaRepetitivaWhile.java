@@ -11,9 +11,15 @@ public class EstruturaRepetitivaWhile {
 		 * enquanto uma condição for verdadeira. Quando usar? quando não se sabe
 		 * previamente a quantidade de repetições que será realizada
 		 * 
-		 * Sintaxe / regra while ( condição ) { comando 1 comando 2 }
+		 * Sintaxe / regra 
 		 * 
-		 * Regra: V: executa e volta F: pula fora
+		 * while ( condição ) { 
+		 * 		comando 1 
+		 * 		comando 2 
+		 * }
+		 * 
+		 * Regra: 
+		 * V: executa e volta F: pula fora
 		 * 
 		 */
 
