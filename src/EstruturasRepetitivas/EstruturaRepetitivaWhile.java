@@ -1,14 +1,14 @@
-package EstruturaRepetitivaWhile;
+package EstruturasRepetitivas;
 
 import java.util.Scanner;
 
-public class AteQueZeroApareca {
+public class EstruturaRepetitivaWhile {
 
 	public static void main(String[] args) {
 
 		/*
 		 * A estrutura While é uma estrutura de controle que repete um bloco de comandos
-		 * enquanto uma condição for verdadeira. Quando usar: quando não se sabe
+		 * enquanto uma condição for verdadeira. Quando usar? quando não se sabe
 		 * previamente a quantidade de repetições que será realizada
 		 * 
 		 * Sintaxe / regra while ( condição ) { comando 1 comando 2 }
