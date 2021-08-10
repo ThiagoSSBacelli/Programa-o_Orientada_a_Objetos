@@ -1,9 +1,9 @@
-package ProblemaTrianguloSemPOO;
+package ProblemaTriangulo;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class MedidaDeDoisTriangulos {
+public class MedidaDeDoisTriangulosSemPoo {
 
 	public static void main(String[] args) {
 
